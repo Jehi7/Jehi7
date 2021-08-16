@@ -12,6 +12,6 @@
 
 ● You can reach me @something on twitter.
 
-_- Funfact_
+_- Funfact:_
   
-_My favorite games are Overwatch, Minecraft and The Last of Us (both of them)_
+_My favorite games are Overwatch, Minecraft and The Last of Us (both of them) :)_
