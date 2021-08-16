@@ -1,4 +1,4 @@
-# Hello!
+<center># Hello!<center>
 
 ***
 
@@ -8,5 +8,5 @@
 ● Ask me about anything :D
 ● You can reach me @something on twitter.
 
---- Funfact ---
-My favorite games are Overwatch, Minecraft and The Last of Us (both of them)
+_- Funfact 
+My favorite games are Overwatch, Minecraft and The Last of Us (both of them)_
