@@ -1,7 +1,5 @@
 # Hello!
 
-  
-***
 ***
   
 ● I'm currently working as a freelancer!
