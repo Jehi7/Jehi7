@@ -1,8 +1,8 @@
-#<center>Hello!</center>
+#Hello!
 
   
 ***
-
+***
   
 ● I'm currently working as a freelancer!
   
@@ -14,6 +14,6 @@
   
 ● You can reach me @something on twitter.
 
-_- Funfact 
+_- Funfact_
   
-My favorite games are Overwatch, Minecraft and The Last of Us (both of them)_
+_My favorite games are Overwatch, Minecraft and The Last of Us (both of them)_
