@@ -2,11 +2,9 @@
 
 ***
   
-● I'm currently working as a freelancer!
+● I'm currently working on a research about autonomous drone control with ROS
 
-● In general, I usually program in JS or C#.
-
-● Lately, I've been studying python!
+● I tend to program in Py, JS, or C#
 
 ● Ask me about anything :D
 
@@ -14,4 +12,4 @@
 
 _- Funfact:_
   
-_My favorite games are Overwatch, Minecraft and The Last of Us (both of them) :)_
+_My favorite games are Overwatch, Minecraft, and The Last of Us (both of them) :)_
